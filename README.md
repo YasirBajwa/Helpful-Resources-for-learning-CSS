@@ -1,4 +1,4 @@
-# Top 6 Beginner-Friendly Resources to Master Frontend Development
+# Top 6 Beginner-Friendly Resources to Learn CSS
 
 Embarking on your journey into the world of frontend development can feel both exhilarating and overwhelming, especially when faced with the vast realm of CSS (Cascading Style Sheets). Fear not, dear newbie! With the right guidance and resources at your disposal, you can navigate this landscape with confidence and ease. In this article, we've curated a selection of beginner-friendly resources tailored specifically to help you dive headfirst into the enchanting world of CSS. Whether you're a complete novice or looking to refine your skills, these handpicked resources will set you on the path to frontend mastery.
 
